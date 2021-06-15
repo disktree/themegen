@@ -1,0 +1,8 @@
+-js app.js
+-main App
+-lib hsluv
+-lib om.core
+-dce full
+-debug
+-D analyzer-optimize
+-D js-es=6
