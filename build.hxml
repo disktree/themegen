@@ -2,6 +2,7 @@
 -main App
 -lib hsluv
 -lib om.core
+-lib om.color
 -dce full
 -debug
 -D analyzer-optimize
